@@ -6,7 +6,7 @@
   "homepage": "https://github.com/igormos1/goit-js-11-fixed",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url //goit-js-11-fixed"
+    "build": "parcel build src/*.html --public-url //goit-js-11-fixed/"
   },
   "repository": {
     "type": "git",
